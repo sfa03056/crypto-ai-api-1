@@ -1,0 +1,7 @@
+{
+    "symbol": "ETHUSDT",
+    "predict": 1,
+    "confidence": 0.71,
+    "strategy": "logistic_regression",
+    "timestamp": "2025-03-24 00:34:25"
+}
